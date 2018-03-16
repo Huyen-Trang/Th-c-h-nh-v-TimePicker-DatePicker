@@ -106,7 +106,7 @@ public class MainActivity extends Activity {
 	}
 	/**
 	 * Class sự kiện của các Button
-	 * @author drthanh
+	 *
 	 *
 	 */
 	private class MyButtonEvent implements OnClickListener
@@ -130,7 +130,7 @@ public class MainActivity extends Activity {
 	}
 	/**
 	 * Class sự kiện của ListView
-	 * @author drthanh
+	 *
 	 *
 	 */
 	private class MyListViewEvent implements 
